@@ -1,5 +1,5 @@
 ![](https://github.com/jumacaq/atencion_oncologica_peru_2022_2023/blob/main/README.png)
-# ATENCIONES DE COBERTURA ONCOLÓGICA PERIODOS 2022 – 2023’ del Fondo Intangible Solidario de Salud(FISSAL)
+# ATENCIONES DE COBERTURA ONCOLÓGICA PERIODOS 2022 – 2023 del Fondo Intangible Solidario de Salud(FISSAL)
 ## Descripción: :mag_right: :eyes:
 Notebook de participación en el reto ‘Explora la IA en Oncología’ un taller virtual de datos abiertos organizado por la Secretaría de Gobierno y Transformación Digital del Perú.
 
