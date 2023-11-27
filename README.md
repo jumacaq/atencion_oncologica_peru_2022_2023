@@ -1,4 +1,4 @@
-![](https://github.com/jumacaq/Robot_Trading_BTC-USD/blob/main/robot_btc.png)
+![]([https://github.com/jumacaq/Robot_Trading_BTC-USD/blob/main/robot_btc.png](https://github.com/jumacaq/atencion_oncologica_peru_2022_2023/blob/main/README.png))
 # Robot_Trading_BTC-USD
 ## Descripción: :mag_right: :eyes:
 Desarrollamos este programa con librerías del lenguaje Python dentro de un notebook de Google Colab con el fin de tomar decisiones de compra y venta de Bitcoin en tiempo real.
